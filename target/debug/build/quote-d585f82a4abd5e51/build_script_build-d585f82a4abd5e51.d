@@ -1,5 +1,0 @@
-/home/vedant/Downloads/imginspect/target/debug/build/quote-d585f82a4abd5e51/build_script_build-d585f82a4abd5e51.d: /home/vedant/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.43/build.rs
-
-/home/vedant/Downloads/imginspect/target/debug/build/quote-d585f82a4abd5e51/build_script_build-d585f82a4abd5e51: /home/vedant/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.43/build.rs
-
-/home/vedant/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.43/build.rs:

@@ -1,4 +1,6 @@
-# imginspect
+# image-parser
+
+
 
 imginspect is a Rust CLI tool that inspects and validates the binary structure of image files.
 
